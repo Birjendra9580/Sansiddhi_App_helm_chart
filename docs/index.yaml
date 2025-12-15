@@ -3,7 +3,7 @@ entries:
   sansiddhi:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-15T04:55:13.652484609Z"
+    created: "2025-12-15T05:47:22.595014751Z"
     description: Helm Chart for Sansiddhi Application
     digest: 30b6e7af4758624102c491df86c5b442b8622aac7563e75d49fa98bb8124230e
     maintainers:
@@ -11,6 +11,6 @@ entries:
     name: sansiddhi
     type: application
     urls:
-    - https://Birjendra9580.github.io/sansiddhi-app-helm-chart/sansiddhi-1.0.0.tgz
+    - https://birjendra9580.github.io/Sansiddhi_App_helm_chart/sansiddhi-1.0.0.tgz
     version: 1.0.0
-generated: "2025-12-15T04:55:13.649645443Z"
+generated: "2025-12-15T05:47:22.593616888Z"
